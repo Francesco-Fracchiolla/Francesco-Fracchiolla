@@ -28,8 +28,8 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="www.linkedin.com/in/francesco-fracchiolla-9471a62b0"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/death_eaters27/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
-<a href="kecco1997@yahoo.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="www.linkedin.com/in/francesco-fracchiolla-9471a62b0"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Francecsco%20Fracchiolla%20-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/death_eaters27/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-death_eaters-blue?style=flat-square&logo=instagram"></a>
+<a href="kecco1997@yahoo.com"><img alt="Email" src="https://img.shields.io/badge/Email-kecco1997@yahoo.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
